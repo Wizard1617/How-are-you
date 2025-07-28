@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248739298610",
+    "project_id": "kak-ty",
+    "storage_bucket": "kak-ty.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248739298610:android:bcd608fc7bb39e1dc02b2b",
+        "android_client_info": {
+          "package_name": "com.example.emotion_gpt_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqyLwIEWl090L97PB5Ix098P8Oj8PNrEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
